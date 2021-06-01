@@ -1,3 +1,0 @@
-PLuto
-gmp
-OpenMP
